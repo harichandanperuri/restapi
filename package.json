@@ -1,0 +1,19 @@
+{
+  "name": "assignment-7-harichandanperuri",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edureka-intership/assignment-7-harichandanperuri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edureka-intership/assignment-7-harichandanperuri/issues"
+  },
+  "homepage": "https://github.com/edureka-intership/assignment-7-harichandanperuri#readme",
+  "description": ""
+}
